@@ -1,0 +1,29 @@
+Summer Game 2015 (Kenny's Adventure)
+	Menu Activity
+		Scroll View image
+		Kenney walkable
+		Start Button
+		BGM
+		Day/Night
+		Sun floating by
+	Town Activity
+		Inn (clickable)
+			Quests
+				Retrieve item from dungeon 1
+				Retrieve item from dungeon 2
+				Retrieve item from dungeon 3
+		Blacksmith (clickable)
+			Upgrades
+				Weapons
+		Mage Library
+		Dungeon1 Entrance
+		BGM
+	Dungeon 0
+		2 encounters
+		
+	Dungeon 1
+		Random encounters
+		random 5 maps, with random of 5~10 rooms
+		10 random rooms
+		
+		
